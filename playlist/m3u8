@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1724668,RESOLUTION=1920x1080,CODECS="avc1.4d4029,mp4a.40.2"
+http://tvthai.googlestream.xyz:8888/live/variety/QdavVJDKxI/10.m3u8
