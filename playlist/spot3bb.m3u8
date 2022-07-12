@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:542
+#EXTINF:10.713000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_542.ts
+#EXTINF:9.358000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_543.ts
+#EXTINF:10.628000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_544.ts
+#EXTINF:9.359000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_545.ts
+#EXTINF:10.594000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_546.ts
+#EXTINF:9.310000,
+http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_547.ts
