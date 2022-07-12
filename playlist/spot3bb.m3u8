@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:542
 #EXTINF:10.713000,
-http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_542.ts
+tvthai.googlestream.xyz:8888/live/movies/WlVaYWqgrs/9.m3u8 tvthai.googlestream.xyz:8888
 #EXTINF:9.358000,
 http://sport.googlestream.xyz:9999/streaming/clients_live.php?extension=m3u8&username=sports&password=oWjhuYAc7t&stream=5&type=hls&segment=5_543.ts
 #EXTINF:10.628000,
