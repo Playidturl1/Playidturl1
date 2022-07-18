@@ -1,0 +1,17 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:4222
+#EXTINF:10.012000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4222.ts
+#EXTINF:10.009000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4223.ts
+#EXTINF:10.010000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4224.ts
+#EXTINF:10.010000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4225.ts
+#EXTINF:10.010000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4226.ts
+#EXTINF:10.010000,
+http://tvthai.googlestream.xyz:8888/streaming/clients_live.php?extension=m3u8&username=movies&password=WlVaYWqgrs&stream=9&type=hls&segment=9_4227.ts
